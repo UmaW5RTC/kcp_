@@ -1,0 +1,30 @@
+[25-Jun-2015 12:50:09 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/ospcbin/public_html/automail.php on line 407
+[03-Jul-2015 12:50:01 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/ospcbin/public_html/automail.php on line 407
+[06-Jul-2015 12:50:02 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/ospcbin/public_html/automail.php on line 407
+[08-Jul-2015 12:50:02 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/ospcbin/public_html/automail.php on line 407
+[09-Jul-2015 12:50:04 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/ospcbin/public_html/automail.php on line 407
+[09-Jul-2015 13:36:06 UTC] PHP Warning:  mysql_connect(): Access denied for user 'onl12769'@'localhost' (using password: YES) in /home/ospcbin/public_html/graphics_user_2.php on line 61
+[10-Jul-2015 08:19:41 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'ospcbin'@'localhost' (using password: YES) in /home/ospcbin/public_html/display_user.php on line 4
+[10-Jul-2015 08:19:41 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/ospcbin/public_html/display_user.php on line 6
+[03-Aug-2015 12:50:08 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/ospcbin/public_html/automail.php on line 407
+[04-Aug-2015 12:50:03 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/ospcbin/public_html/automail.php on line 407
+[05-Aug-2015 12:50:12 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/ospcbin/public_html/automail.php on line 407
+[07-Aug-2015 12:31:27 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'ospcbin'@'localhost' (using password: YES) in /home/ospcbin/public_html/display_user.php on line 4
+[07-Aug-2015 12:31:27 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/ospcbin/public_html/display_user.php on line 6
+[07-Aug-2015 12:33:49 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'ospcbin'@'localhost' (using password: YES) in /home/ospcbin/public_html/display_user.php on line 4
+[07-Aug-2015 12:33:49 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/ospcbin/public_html/display_user.php on line 6
+[07-Aug-2015 12:50:05 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/ospcbin/public_html/automail.php on line 407
+[07-Aug-2015 12:50:10 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/ospcbin/public_html/automail.php on line 407
+[08-Aug-2015 12:50:33 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 33033411 bytes) in /home/ospcbin/public_html/automail.php on line 396
+[11-Aug-2015 12:50:10 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/ospcbin/public_html/automail.php on line 407
+[11-Aug-2015 12:50:15 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/ospcbin/public_html/automail.php on line 407
+[12-Aug-2015 12:50:20 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/ospcbin/public_html/automail.php on line 407
+[12-Aug-2015 12:50:20 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/ospcbin/public_html/automail.php on line 407
+[12-Aug-2015 17:42:59 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'ospcbin'@'localhost' (using password: YES) in /home/ospcbin/public_html/display_user.php on line 4
+[12-Aug-2015 17:42:59 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/ospcbin/public_html/display_user.php on line 6
+[12-Aug-2015 17:43:32 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'ospcbin'@'localhost' (using password: YES) in /home/ospcbin/public_html/display_user.php on line 4
+[12-Aug-2015 17:43:32 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/ospcbin/public_html/display_user.php on line 6
+[12-Aug-2015 17:43:36 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'ospcbin'@'localhost' (using password: YES) in /home/ospcbin/public_html/display_user.php on line 4
+[12-Aug-2015 17:43:36 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/ospcbin/public_html/display_user.php on line 6
+[12-Aug-2015 17:47:02 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'ospcbin'@'localhost' (using password: YES) in /home/ospcbin/public_html/display_user.php on line 4
+[12-Aug-2015 17:47:02 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/ospcbin/public_html/display_user.php on line 6

@@ -13,12 +13,9 @@
         </p>
     <div id="container">
     	<div id="header">
-            <div id="header_left">
-                <img src="images/kcp.jpg" width="100"/>
-            </div>
             <div id="header_center">
-                <center>KCP Connect<sup>+</sup></center>
-            </div>
+		<img src="images/kcp.jpg" width="360"/>	                
+	    </div>
         </div>
         <div id="body_container">
             <marquee style="margin-top:20px;">
@@ -29,17 +26,7 @@
         
         </div>
          <div id="box-b">
-             Features list<br />
-            ========<br/>
-            1) Remote monitoring.<br/>
-            2) Graphical Analysis <br/>
-            3) Tabular  Analysis<br/>
-            4) Historical Analysis<br/>
-            5) Varied classes of environment sensors.<br/>
-            6) User Types & Authentication.<br/>
-            7) Device Configuration. <br/>
-            8) Local & Remote Storage.<br/>
-            9) Security <br/>
+
         </div>
     </div>
 </body>

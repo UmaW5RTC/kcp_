@@ -89,7 +89,7 @@ function showUser(str) {
     <div id="container">
     	<div id="header">
             <div id="header_left">
-                <img src="images/kcp.jpg" width="100"/>
+                <img src="images/kcp.jpg" width="280"/>
             </div>
             <div id="header_center">
                 <center>KCP Connect<sup>+</sup></center>

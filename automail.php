@@ -31,7 +31,7 @@
 
 <?php
 include('conn.php');
-$date= '2015-04-08'  . "<br>";
+$date= date("Y-m-d")  . "<br>";
 $site_value = mysql_query("SELECT  distinct site_code from `log_database` where date_stamp = '".$date."'");
 while($site_value_id = mysql_fetch_assoc($site_value)){
 	$value = $site_value_id['site_code'];

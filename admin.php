@@ -6,6 +6,7 @@
 	if (!isset($_SESSION['username'])) {
 	header('Location: index.php');
 	}
+echo $_SESSION['username'];
 ?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
@@ -24,7 +25,7 @@
     <div id="container">
     	<div id="header">
             <div id="header_left">
-                <img src="images/kcp.jpg" width="100"/>
+                <img src="images/kcp.jpg" width="308"/>
             </div>
             <div id="header_center">
                 <center>KCP Connect<sup>+</sup></center>

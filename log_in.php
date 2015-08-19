@@ -17,7 +17,7 @@
         </div>
         <div id="body"><br/><br/>
         <center>
-            <form action="/no_access/connection_string.php" name="form1" method="post"> 
+            <form action="no_access/connection_string.php" name="form1" method="post"> 
                 User Name &nbsp;&nbsp;&nbsp;<input name="myusername" type="text" id="myusername"/><br/><br/>
                 Password&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input name="mypassword" type="password" id="mypassword"/><br/><br/>
                 <center><input type="submit" name="Submit" value="Login"/></center>
